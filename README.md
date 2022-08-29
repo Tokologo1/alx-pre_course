@@ -1,2 +1,1 @@
-My first readme
-And only for this task
+This Priject aims at ensuring that we understand the projects core, deliveribles
